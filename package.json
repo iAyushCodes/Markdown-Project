@@ -1,0 +1,16 @@
+{
+  "name": "markdownproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dompurify": "^3.2.4",
+    "marked": "^15.0.7"
+  }
+}
